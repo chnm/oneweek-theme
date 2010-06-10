@@ -1,7 +1,7 @@
 One Week | One Tool Theme
 =========================
 
-The WordPress theme for oneweekonetool.org. 
+The WordPress theme for oneweekonetool.org site. 
 
 Fonts
 -----
